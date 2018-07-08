@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Hans_2018/.idea/Hans_2018.iml" filepath="$USER_HOME$/Desktop/Hans_2018/.idea/Hans_2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../teratask2/.idea/csvcrud.iml" filepath="$PROJECT_DIR$/../teratask2/.idea/csvcrud.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/nav/.idea/nav.iml" filepath="$USER_HOME$/Desktop/nav/.idea/nav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scrapper.iml" filepath="$PROJECT_DIR$/.idea/scrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrapper_user/.idea/scrapper_user.iml" filepath="$PROJECT_DIR$/../scrapper_user/.idea/scrapper_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../videochat/.idea/videochat.iml" filepath="$PROJECT_DIR$/../videochat/.idea/videochat.iml" />
+    </modules>
+  </component>
+</project>

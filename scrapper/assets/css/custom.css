@@ -1,0 +1,15 @@
+table thead tr th{
+    border: none !important;
+}
+.mydatatable{
+    padding: 20px auto !important;
+}
+.del{
+    cursor: pointer;
+}
+.hidden-tr{
+    display: none;
+}
+.m-10{
+    margin: auto 2px !important;
+}
